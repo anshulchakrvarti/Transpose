@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{
+{ // given an nxn  matrix 'a', print all elements of the matrix in spiral order
   int n;
   printf("enter the row of matrix :");
   scanf("%d", &n);
