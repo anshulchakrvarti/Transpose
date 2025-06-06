@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{
+{ // write a program to rotate a matrix 90 degree clockwise
     int row;
     printf("enter the number row:");
     scanf("%d", &row);
